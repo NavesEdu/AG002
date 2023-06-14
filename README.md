@@ -7,10 +7,10 @@ Este trabalho foi desenvolvido pelos alunos do curso de graduação em Engenhari
  Utilizar dos conhecimentos de Programação, Bancos de Dados e Inteligência Artificial para, a partir do conjunto de dados proposto, treinar, avaliar e disponibilizar um modelo de aprendizado de máquina para classificar dados relacionados ao câncer de mama.
 
  ## Conjunto de dados 📚
- - O <a href="[https://raw.githubusercontent.com/marcelovca90-inatel/AG002/main/dump.sql]">conjunto de dados</a> apresenta 286 amostras;
+ - O <a href="https://raw.githubusercontent.com/marcelovca90-inatel/AG002/main/dump.sql">conjunto de dados</a> apresenta 286 amostras;
  - 9 atributos que podem ser utilizados para indicar (ou não) a recorrência deste tipo de doença;
- - O conjunto de dados foi obtido do <a href="[https://archive.ics.uci.edu/ml/datasets/Breast+Cance]">UCI Machine Learning Repository</a>;
- - Os dados estão codificados de acordo com uma <a href="[https://raw.githubusercontent.com/marcelovca90-inatel/AG002/main/codetable.png]">codetable</a>.
+ - O conjunto de dados foi obtido do <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer">UCI Machine Learning Repository</a>;
+ - Os dados estão codificados de acordo com uma <a href="https://raw.githubusercontent.com/marcelovca90-inatel/AG002/main/codetable.png">codetable</a>.
 
 ## Tecnologias e recursos 🚀
 - MySql
