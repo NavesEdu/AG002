@@ -21,7 +21,7 @@ Este trabalho foi desenvolvido pelos alunos do curso de graduação em Engenhari
 
 ## Como executar ⚙️
 1. Clone este repositório em sua máquina;
-2. No terminal, no diretório do arquivo "main.py", digite o seguinte comando:
+2. No terminal, no diretório em que clonou este repositório, digite o seguinte comando:
 ```
 python main.py
 ```
