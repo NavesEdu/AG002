@@ -28,4 +28,4 @@ python main.py
 3. Ao executar serão exibidas as métricas e, em seguida, serão solicitados os valores para realizar a predição da reincidência do câncer de mama;
 4. Alguns valores "pré-definidos" podem ser encontrados como comentário no arquivo "inputs" e usados como exemplo.
 
-### OBS.: O Vídeo contendo a explicação do projeto encontra-se <a href=>aqui</a>.
+### OBS.: O Vídeo contendo a explicação do projeto encontra-se <a href="https://posinatel-my.sharepoint.com/personal/ana_ac_ges_inatel_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fana_ac_ges_inatel_br%2FDocuments%2FInatel%2FP9%2FAG002%2FAG002%2Emp4&ga=1">aqui</a>.
